@@ -11,7 +11,12 @@ if birthyear == 2003 :
 elif birthyear == 2004 :
     print("what did one monkey say to another? 'I was born in 2004'")
 if birthyear == 2005 :
-    print("why did the turkey cross the road? to prove he wasn't chicken and neither are you because you're a rooster")
+    print("why did the turkey cross the road? "
+         
+         
+          "To prove he wasn't chicken and "
+          
+            "neither are you because you're a rooster!")
 elif birthyear == 2006 :
     print("woof woof you're a dog")
 if birthyear == 2007:
@@ -27,7 +32,7 @@ if birthyear == 2011 :
 elif birthyear < 2000 :
     print("you're too old get out out here !")
 elif birthyear > 2011 :
-    print(" umm I said a year between 2000 and 2011")
+    print(" umm I said a year between 2000 and 2011. TRy Again")
 
 
 
